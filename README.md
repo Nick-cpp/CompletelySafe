@@ -19,4 +19,4 @@ gcc CompletelySafe.c -o CompletelySafe
 ```
 
 ### Recommended Soundtrack
-For the best experience, listen to Edvard Grieg's **"In the Hall of the Mountain King"** after plaing.
+For the best experience, listen to Edvard Grieg's **"In the Hall of the Mountain King"** while/after plaing.
