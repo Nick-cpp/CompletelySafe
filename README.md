@@ -1,5 +1,5 @@
 # CompletelySafe
-A terminal-based interactive novella in C
+A terminal-based interactive novell in C
 
 # Running a pre-build static binary
 
